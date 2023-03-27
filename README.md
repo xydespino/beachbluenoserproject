@@ -1,3 +1,14 @@
+Welcome to Beach Bluenoser.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xydespino/beachbluenoserproject/blob/main/Beachbluenoser.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xydespino/beachbluenoserproject/blob/main/Beachbluenoser.png?raw=true">
+  <img alt="Shows the main page for Beach Bluenoser." src="https://github.com/xydespino/beachbluenoserproject/blob/main/Beachbluenoser.png?raw=true">
+</picture>
+
+As a team of 6 Dalhousie Computer Science Students, we created a React application for a client that wanted to solve the problem of not having an accessible website that displayed safety information about the beaches in Nova Scotia, Canada. This app was made in my CSCI 2691 Introductory Project class in Summer 2022.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
